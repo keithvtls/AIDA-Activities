@@ -2,6 +2,6 @@
 Data Halaman Activities
 
 Canoza, Cherrylyn
-Timbungco, Ian Jude
-Vitales, Nicole Keith
-Zarraga, Sebastian Cale
+<br>Timbungco, Ian Jude
+<br>Vitales, Nicole Keith
+<br>Zarraga, Sebastian Cale
